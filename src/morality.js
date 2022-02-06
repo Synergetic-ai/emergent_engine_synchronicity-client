@@ -6,7 +6,7 @@ export default {
     };
   },
   methods: {
-    money() {
+    beggar() {
       this.morality+= 1;
     },
     tofu() {
